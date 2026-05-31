@@ -1,5 +1,3 @@
-You can keep your README simple and professional, especially since the project is still in progress.
-
 # JCB Rental Website
 
 ## Overview
